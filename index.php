@@ -10,6 +10,7 @@
 
 <body>
     <h1>aku adalah</h1>
+    <h1>aku adalah</h1>
 </body>
 
 </html>
